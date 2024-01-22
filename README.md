@@ -1,2 +1,3 @@
 # bookbot
-Book bot 🤖
+
+BookBot is my git project!
